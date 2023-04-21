@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="wellcome">Добро пожаловать!</string>
+    <string name="error_fields_empty">Заполните все поля</string>
+    <string name="barcode_text">Направьте камеру на QR-код</string>
+</resources>
